@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Gerenciamento de Curso Simplificado</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Entrar com e-mail</string>
+    <string name="prompt_password">Entrar com a Senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="error_invalid_email">E-mail ou senha informada incorreta. Favor verificar!</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">Campo obrigatório</string>
+    <string name="permission_rationale">"Permissão de contato necessária para autocomplete"</string>
+    <string name="esqueceu_senh">Esqueceu sua senha?</string>
+    <string name="novo_aqui">É novo aqui? Realize o seu Cadastro</string>
+    <string name="bem_vindo">Seja Bem Vindo!!!</string>
+    <string name="curso">Curso</string>
+    <string name="action_sign_in_short">Senha muito curta</string>
+    <string name="sgc">GCS</string>
+    <string name="login">Login</string>
+    <string name="aluno_btn_pesquisar">Pesquisar</string>
+    <string name="aluno_btn_meus_cursos">Meus Cursos</string>
+    <string name="aluno_btn_meus_matricula">Matrícula</string>
+    <string name="aluno_btn_meus_conta">Conta</string>
+    <string name="title_activity_professor_home">ProfessorHomeActivity</string>
+    <string name="adm_btn_avaliacao">Avaliação</string>
+    <string name="adm_btn_notas">Notas</string>
+    <string name="adm_btn_curso">Curso</string>
+    <string name="adm_btn_aluno">Aluno</string>
+</resources>
